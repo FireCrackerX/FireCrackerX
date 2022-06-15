@@ -1,7 +1,7 @@
 ## **👋 Hello I'm Piyawach, Welcome to my Github profile**
 
 **About me**
-- 🌱 i'm currently studying in the faculty computer science,KMITL
+- 🌱 i'm currently studying in the faculty computer science, KMITL
 - 🌱 I’m currently learning WebDev and Mobile app Dev
 
 **Programming Languages**
